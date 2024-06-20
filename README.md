@@ -44,36 +44,36 @@ Optimized images and used efficient coding practices to ensure quick loading spe
 
 
 
-# Check out some screenshots of the website in action!
+## Check out some screenshots of the website in action!
 
-### Home page 
+#### Home page 
 ![home](https://github.com/ArulananthamSatheeska/Responsive-shoe-shop-website/assets/170884177/72b05897-57d7-456d-a77d-7a4a07044de5)
 
 
 
-### About page
+#### About page
 ![about](https://github.com/ArulananthamSatheeska/Responsive-shoe-shop-website/assets/170884177/06b530f7-05bc-4796-b07d-1b2f88ce0c59)
 
 
-### Collection page
+#### Collection page
 ![collection](https://github.com/ArulananthamSatheeska/Responsive-shoe-shop-website/assets/170884177/864b70b0-3fe3-444a-a6a9-d8cf31e2ee8a)
 
 
-### Offer page
+#### Offer page
 ![offer](https://github.com/ArulananthamSatheeska/Responsive-shoe-shop-website/assets/170884177/e175f37e-1274-4911-ae12-6966d1e3b75b)
 
 
-### Review page
+#### Review page
 ![review](https://github.com/ArulananthamSatheeska/Responsive-shoe-shop-website/assets/170884177/556c37bd-8091-43f4-bfe0-eed8b3e5bd58)
 
 
-### Contact page
+#### Contact page
 ![contact](https://github.com/ArulananthamSatheeska/Responsive-shoe-shop-website/assets/170884177/c479e15a-dc9d-4d0b-b300-32acb93bd4c9)
 
 
-### Blogs page
+#### Blogs page
 ![blogs](https://github.com/ArulananthamSatheeska/Responsive-shoe-shop-website/assets/170884177/6490e639-8b9b-4435-a622-f1a07464a125)
 
 
-### Footer page
+#### Footer page
 ![footer](https://github.com/ArulananthamSatheeska/Responsive-shoe-shop-website/assets/170884177/e2c8c350-1321-4e67-802a-e09345764e19)
